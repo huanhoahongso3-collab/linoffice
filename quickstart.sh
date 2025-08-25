@@ -3,7 +3,7 @@
 set -euo pipefail
 APT_UPDATED=0
 
-REPO_OWNER="eylenburg"
+REPO_OWNER="huanhoahongso3-collab"
 REPO_NAME="linoffice"
 TARGET_DIR="$HOME/.local/bin/linoffice"
 TMPDIR=$(mktemp -d)
